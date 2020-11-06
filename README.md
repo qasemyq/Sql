@@ -1,2 +1,2 @@
 # Sql server
-Hospital Management System project using microsoft sql server(2014) 
+Infirmary administration is a databse project to store patiants statistics using microsoft sql server(2014) 
